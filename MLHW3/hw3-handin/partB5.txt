@@ -1,0 +1,17 @@
+What did you observe?
+        I observed that actually List-And-Eliminate Algorithm will return a set of consistent-with-training-data
+    set of hypothesises, for all training data existed, every hypothesis in the set(VS) will be consistent. But
+    the VS would be super huge when numbers of attributes increase, that would be a burden for computation
+    capability.
+
+How well did your program do?
+        Actually from the final vote, the hypothesis doesn't act too well as I expected, the average vote is 16,
+    which is half of the size of the remaining hypothesis set, that's to say given a data set there'd still be
+    not that certain to determine whether this instance should be labeled as "High" or "Low". Only in the last
+    instance the hypothesis matched perfectly.
+
+What do I learn from this?
+        I think most of the case are depending on the training data, though remaining hypothesis is perfectly
+    consistent with that, but in this case it doesn't act well enough, but if the size of training data get
+    larger(and almost cover all concepts), then probably no hypothesis would be left in the end, so at least in
+    this lab, I cannot say which one is better.

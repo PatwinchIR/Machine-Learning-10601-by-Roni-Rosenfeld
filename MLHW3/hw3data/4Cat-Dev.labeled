@@ -1,0 +1,5 @@
+Gender Male	Age Young	Student? No	PreviouslyDeclined? No	Risk low
+Gender Male	Age Young	Student? Yes	PreviouslyDeclined? Yes	Risk low
+Gender Female	Age Old	Student? No	PreviouslyDeclined? No	Risk low
+Gender Male	Age Old	Student? No	PreviouslyDeclined? Yes	Risk high
+Gender Female	Age Young	Student? No	PreviouslyDeclined? No	Risk low
