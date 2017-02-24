@@ -1,0 +1,12 @@
+1.Do you think a decision tree will work for the politician dataset?
+Yes, because the instances in politician dataset are represented in attribute-value pairs,
+and the target function "party" is a binary outcome, which means a discrete value. Those 2 characteristics
+makes it sufficient for decision tree learning.
+
+2.What about for the education dataset?
+Still, same as the politician dataset, the education dataset has two important characteristics,
+instances are represented in attr-val pairs, and has discrete outcome.
+
+In both cases, in the real world, there might be some situation that values of some attributes are
+missing or have noise, decision tree can deal with those two kinds of circumstances. Thus, I think
+a decision tree learning will work for both the politician and education datasets.

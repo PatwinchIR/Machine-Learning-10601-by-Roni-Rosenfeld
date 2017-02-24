@@ -1,0 +1,27 @@
+Result for politician dataset:
+[83+/66-]
+Duty_free_exports = y: [53+/6-]
+| Immigration = y: [10+/0-]
+| Immigration = n: [43+/6-]
+Duty_free_exports = n: [30+/60-]
+| Aid_to_nicaraguan_contras = y: [16+/6-]
+| Aid_to_nicaraguan_contras = n: [14+/54-]
+error(train): 0.0805369127517
+error(test): 0.180722891566
+
+Result for education dataset:
+[135+/65-]
+P4 = y: [26+/5-]
+| P3 = y: [10+/1-]
+| P3 = n: [16+/4-]
+P4 = n: [109+/60-]
+| P3 = y: [34+/13-]
+| P3 = n: [75+/47-]
+error(train): 0.02
+error(test): 0.03
+
+Which is more accurate on the training data?
+The education dataset is more accurate.
+
+Which is more accurate on the testing data?
+The education dataset is more accurate.
