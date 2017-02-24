@@ -1,0 +1,23 @@
+1.
+4-result
+0.24
+0.64
+0.36
+0.24
+0.64
+0.36
+
+5-result
+0.12
+0.853333333333
+0.18
+0.12
+0.853333333333
+0.18
+
+2.
+Duplicated features are redundant, makes the probabilities of other features, or we can say the weight
+of other features less than non-duplicate features.
+
+3.
+If the duplicate features are the ones that deciding rhe result, than the result would be good for the true result.

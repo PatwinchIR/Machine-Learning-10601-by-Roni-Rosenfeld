@@ -1,0 +1,6 @@
+• Did you receive any help whatsoever from anyone in solving this assignment? Yes / No. If you answered ‘yes’, give full details? (e.g.“Jane explained to me what is asked in Question 3.4").
+No
+• Did you give any help whatsoever to anyone in solving this assignment? Yes / No. If you answered ‘yes’, give full details? (e.g. “I pointed Joe to section 2.3 to help him with Question 2").
+No
+• Did you find or come across code that implements any part of this assignment ? Yes / No. If you answered ‘yes’, give full details? (e.g. book & page, URL & location within the page, etc)
+No

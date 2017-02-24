@@ -1,0 +1,7 @@
+0 - error
+.1 - 0.8333
+.5 - 0.8056
+1 - 0.8056
+5 - 0.6944
+
+So when q = 0.1, the accuracy is improved.

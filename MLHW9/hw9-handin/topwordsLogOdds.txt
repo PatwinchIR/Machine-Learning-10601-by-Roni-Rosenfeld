@@ -1,0 +1,46 @@
+Lib:
+digby 5.0726
+rittenhouse 5.0003
+2002-2006 4.7926
+pst 4.7454
+cesca 4.4684
+_ 4.3795
+brooklynkat 4.3071
+rogers 4.2818
+tristero 4.2818
+goldfarb 4.0522
+holtz-eakin 4.0522
+dday 3.9505
+kleiman 3.9141
+theatre 3.9141
+mathew 3.8371
+pinky 3.7537
+mydd 3.7093
+tex 3.6628
+rdan 3.6628
+liberaloasis 3.6140
+
+Con:
+slublog 6.2935
+kyer 5.1625
+kerry's 4.4380
+discerningtexan 4.1775
+galloway 3.8006
+author 3.7011
+ridenour 3.5864
+bangor 3.4422
+date 3.3929
+loading 3.2529
+eason 3.2319
+lileks 3.1884
+leftism 3.1429
+jacoby 3.1194
+fma 3.1194
+spinoff 3.0706
+hugh 3.0367
+ellison 2.9653
+body 2.9508
+pmemail 2.9371
+
+Yes, there're many overlapping words. From the words we found in topwords.py, we can see that topwords.py mainly get the most frequent ones.
+But with log odds we find the most different words between Con and Lib.

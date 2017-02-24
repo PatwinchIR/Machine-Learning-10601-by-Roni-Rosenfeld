@@ -1,0 +1,7 @@
+10 - 0.8056
+20 - 0.8056
+30 - 0.8333
+40 - 0.8611
+50 - 0.8611
+
+So when the value is 40, the accuracy is improved.
